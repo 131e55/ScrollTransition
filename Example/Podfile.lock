@@ -1,0 +1,16 @@
+PODS:
+  - ScrollTransition (0.1)
+
+DEPENDENCIES:
+  - ScrollTransition (from `../`)
+
+EXTERNAL SOURCES:
+  ScrollTransition:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ScrollTransition: c116af4595ada9f33e5277b881eda00f36118dc5
+
+PODFILE CHECKSUM: c70e0b75143b3498f068846887ef1853dff428de
+
+COCOAPODS: 1.1.0.beta.1
